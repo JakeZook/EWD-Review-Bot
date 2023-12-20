@@ -1,14 +1,13 @@
 import "./App.css";
 import Nav from "./componets/Nav";
 import Home from "./Pages/Home";
-import Footer from "./componets/Footer";
+import EditGms from "./Pages/EditGms";
 
 function App() {
 	return (
 		<div>
 			<Nav />
-			<Home />
-			<Footer />
+			<EditGms />
 		</div>
 	);
 }
