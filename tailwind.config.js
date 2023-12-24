@@ -5,11 +5,11 @@ export default {
 		themes: [
 			{
 				jz: {
-					primary: "#D99f38",
+					primary: "#6e2618",
 
-					secondary: "#cf2e2e",
+					secondary: "#a67e4a",
 
-					accent: "#E7CFA0",
+					accent: "#E79D1E",
 
 					neutral: "#f3f4f6",
 
